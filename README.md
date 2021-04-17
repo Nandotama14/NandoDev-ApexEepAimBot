@@ -17,8 +17,6 @@ I tested this with Ubuntu 20.04 as host and Windows 10 1903 as guest.
 Now you should see "Ready" on the host terminal and on the guest client application.
 
 ![PD9554u](https://user-images.githubusercontent.com/65104995/115120630-16912100-9fe1-11eb-90aa-21a1d33afd08.png)
-![yCQACLf](https://user-images.githubusercontent.com/65104995/115120706-6ff95000-9fe1-11eb-949e-05c71f8bb715.png)
-
 
 ### Hotkeys:
 - F4 Close the client and the overlay
@@ -26,6 +24,8 @@ Now you should see "Ready" on the host terminal and on the guest client applicat
 - F6 Toggle Aimbot
 - F7 Change "safe" level. If the title is red, everything works without checks on the spectators count. If it is orange, everything is disabled only if you have enemy spectators. If it is green, everything is disabled if you have enemy or allied spectators.
 LEFT/RIGHT arrows - Decrease/Increase max distance for ESP/Aimbot (200 meters default, 100 min, 800 max).
+
+![yCQACLf](https://user-images.githubusercontent.com/65104995/115120706-6ff95000-9fe1-11eb-949e-05c71f8bb715.png)
 
 ### Notes:
 The (0 - 0) next to the title is the spectators count (enemy - allied). The bars around the players are the indicators of health and shield. The number next to the distance is the team id of the player. If the distance from the enemy is written in red instead of green, it means that the player is knocked. The aimbot doesn't aim at knocked players. Currently there is almost no smooth with aimbot, you can increase the value but with more smooth you have less prediction accuracy. The host program exits if you close Apex and the guest client application. Game version 3.0.4.2577.
