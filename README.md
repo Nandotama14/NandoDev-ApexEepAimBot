@@ -17,6 +17,8 @@ I tested this with Ubuntu 20.04 as host and Windows 10 1903 as guest.
 Now you should see "Ready" on the host terminal and on the guest client application.
 
 ![PD9554u](https://user-images.githubusercontent.com/65104995/115120630-16912100-9fe1-11eb-90aa-21a1d33afd08.png)
+![yCQACLf](https://user-images.githubusercontent.com/65104995/115120706-6ff95000-9fe1-11eb-949e-05c71f8bb715.png)
+
 
 ### Hotkeys:
 - F4 Close the client and the overlay
